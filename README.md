@@ -1,2 +1,2 @@
-# Data-structure-C-
+# Data-structure
 使用C++构建各类数据结构，应用C++高级语法，同时应用其解决实际问题。
